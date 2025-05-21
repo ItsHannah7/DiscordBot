@@ -7,7 +7,7 @@ module.exports = {
 	async execute(interaction) {
         	const stolas = "https://tenor.com/view/helluvaboss-helluva-boss-blitz-helluva-boss-blitzo-helluva-boss-stolas-helluvaboss-stolitz-gif-22790479";
 		const owl = "https://tenor.com/view/owl-gif-18640778";
-		const gang = "https://media.discordapp.net/attachments/938217996650946661/938219442087792721/v1wzs.gifhttps://media.discordapp.net/attachments/938217996650946661/938219442087792721/v1wzs.gif";
+		const gang = "https://media.discordapp.net/attachments/938217996650946661/938219442087792721/v1wzs.gif";
 		const tiptoe = "https://tenor.com/view/funny-owl-dancing-owl-owl-sneaky-gif-12975781";
 		const pat = "https://tenor.com/view/owl-pet-cuddle-gif-12741475";
 		const bunnyEar = "https://tenor.com/view/birds-owl-funny-animals-feathers-hilarious-gif-10839965";
